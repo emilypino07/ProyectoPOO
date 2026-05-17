@@ -56,7 +56,7 @@ ServicioTransporte
 # Instrucciones de Ejecución
 - Abrir el proyecto en PyCharm.
 - Ejecutar el archivo main.py.
--Visualizar los resultados en consola.
+- Visualizar los resultados en consola.
 
 # Capturas del Programa
 Agregar aquí las capturas de la ejecución del sistema.
