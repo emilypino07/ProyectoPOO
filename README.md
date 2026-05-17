@@ -34,3 +34,38 @@ ProyectoPOO/
 │── gestor_transporte.py
 │── main.py
 └── README.md
+
+Explicación de Clases
+ServicioTransporte
+Clase base del sistema. Contiene atributos comunes como código, pasajero y fecha.
+ViajeUrbano
+Clase hija que hereda de ServicioTransporte y representa viajes urbanos.
+ViajePrivado
+Clase hija que hereda de ServicioTransporte y representa viajes privados.
+Pasajero
+Clase que representa a los pasajeros registrados en el sistema.
+GestorTransporte
+Clase encargada de gestionar la lista de servicios y ejecutar métodos polimórficos.
+Herencia
+ServicioTransporte
+│
+├── ViajeUrbano
+├── ViajePrivado
+│
+├── Pasajero
+└── GestorTransporte
+Instrucciones de Ejecución
+Abrir el proyecto en PyCharm.
+Ejecutar el archivo main.py.
+Visualizar los resultados en consola.
+Capturas del Programa
+Agregar aquí las capturas de la ejecución del sistema.
+Video Explicativo
+Agregar aquí el enlace del video explicativo con permisos de visualización.
+Integrantes
+Apellido Nombre
+Apellido Nombre
+Apellido Nombre
+
+
+
