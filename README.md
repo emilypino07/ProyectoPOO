@@ -59,7 +59,9 @@ ServicioTransporte
 - Visualizar los resultados en consola.
 
 # Capturas del Programa
-Agregar aquí las capturas de la ejecución del sistema.
+![Captura 1](Captura1.png)
+![Captura 2](Captura2.png)
+![Captura 3](Captura3.png)
 
 # Video Explicativo
 Agregar aquí el enlace del video explicativo con permisos de visualización.
