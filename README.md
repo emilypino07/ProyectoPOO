@@ -64,12 +64,13 @@ ServicioTransporte
 ![Captura 3](Captura3.png)
 
 # Video Explicativo
-Agregar aquí el enlace del video explicativo con permisos de visualización.
+
 
 # Integrantes
-Apellido Nombre
-Apellido Nombre
-Apellido Nombre
-
+- Alvarez Yagual Karen
+- Macias Villamar Marcos
+- Pino Loor Emily
+- Rodriguez Crespin Diddier
+- Vasquez Chila Valeria
 
 
